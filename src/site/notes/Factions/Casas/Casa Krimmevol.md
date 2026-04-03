@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-krimmevol/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-krimmevol/","noteIcon":"","created":"2026-03-01T14:01:30.450-03:00","updated":"2026-04-02T22:42:35.653-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Krimmevol:
 
 A família tinha a maior parte dos seus interesses no ramo das caravanas. Detinha a maior parte das terras em [Crimmor](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Crimmor) e quase metade dos negócios relacionados com caravanas. Ao contrário de algumas outras famílias, os Krimmevol apoiavam ativamente o prefeito eleito da cidade e impediam que a política perturbasse a economia pacífica e lucrativa em vigor. A família também exercia grande influência em [Eshpurta](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Locations%2FEshpurta) com influência no Conselho do Escudo.
 

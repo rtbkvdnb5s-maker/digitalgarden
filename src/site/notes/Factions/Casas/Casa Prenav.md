@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-prenav/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-prenav/","noteIcon":"","created":"2026-03-01T18:11:13.593-03:00","updated":"2026-04-02T22:43:19.014-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Prenav:
 
 Uma casa nobre humana e antiga de Amn, sediados há alguns séculos em Keczulla, são detentores de grandes exportações de madeira coletada em Snakewood e outras matérias primas locais. 
 

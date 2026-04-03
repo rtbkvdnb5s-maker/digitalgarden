@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-alibakkar/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-alibakkar/","noteIcon":"","created":"2026-02-24T03:45:09.541-03:00","updated":"2026-04-02T22:26:42.764-03:00","dg-note-properties":{}}
 ---
 
 #### Casa Alibakkar

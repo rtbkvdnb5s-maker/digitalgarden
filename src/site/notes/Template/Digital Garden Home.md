@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/digital-garden-home/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/template/digital-garden-home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-02T21:59:41.797-03:00","updated":"2026-04-02T22:30:01.914-03:00","dg-note-properties":{}}
 ---
 
 #### As Grandes Casas de Amn:

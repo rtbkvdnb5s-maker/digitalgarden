@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-cophrit/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-cophrit/","noteIcon":"","created":"2026-03-04T02:18:35.531-03:00","updated":"2026-04-02T22:41:45.312-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Cophrit:
 
 Casa nobre muito antiga de Amn. Nativos de Esmeltaran, agora residentes em Athkatla, são donos do Banco Amniano e famosos investidores.
 

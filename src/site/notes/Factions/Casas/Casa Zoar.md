@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-zoar/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-zoar/","noteIcon":"","created":"2026-03-03T01:23:26.232-03:00","updated":"2026-04-02T22:44:06.524-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Zoar:
 
 Grande inimigas de Waterdeep, a família Zoar atualmente está sediada em Everlund, mas possui muitos bens e residentes vivendo em Amn. Um tanto quanto distantes do tradicional corteja nobre, mas ainda assim residem e prosperam em Athkatla e possuem muitos investimentos em [[Locations/Cidades/Eshpurta\|Eshpurta]], [[Locations/Cidades/Keczulla\|Keczulla]] e [[Locations/Cidades/Esmeltaran\|Esmeltaran]]. São grandes compradores de armas e artigos militares e são grandes investidores nos setores de mineração e produção de caravanas e carruagens.
 

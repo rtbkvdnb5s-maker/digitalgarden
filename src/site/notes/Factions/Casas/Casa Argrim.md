@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-argrim/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-argrim/","noteIcon":"","created":"2026-03-04T00:54:43.850-03:00","updated":"2026-04-02T22:40:53.460-03:00","dg-note-properties":{}}
 ---
 
+#### Casa Argrim:
 
 Uma casa de comerciantes que têm a maior parte de mineração de ouro e a grande maioria do lucro que vêm do mercado deste minério. São conhecidos por serem fechados entre eles e o maior interesse ser "ouro acima de tudo".
 

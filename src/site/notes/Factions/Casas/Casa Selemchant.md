@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-selemchant/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-selemchant/","noteIcon":"","created":"2026-02-19T17:58:50.012-03:00","updated":"2026-04-02T22:43:34.247-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Selemchant:
 
 Uma das casas mais poderosas e antigas de Amn. São nativos de Athkatla, e grandes detentores de terras, comércio e capital em todo o país. Os maiores comerciantes internacionais e os principais proprietários de toda a atividade de importação internacional. Um dos maiores proprietários e prestadores de serviços arcanos do mundo. Eles também detém muito dos serviços privados de construção e segurança, recebendo lucros em cima de multas e taxas dentro do território amniano. São os maiores detentores das exportação do Porto Nanzaryu atualmente e ex-detentores das colônias Amnianas. O atual chefe é [Stellan Selemchant.]() 
 ##### **Membros:**

@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-ophal/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-ophal/","noteIcon":"","created":"2026-02-18T23:37:36.916-03:00","updated":"2026-04-02T22:43:10.394-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Ophal:
 
 Uma das casas mais poderosas de Amn. Residem em Athkatla mas são influentes em todo o reino e mundo afora. Reconhecidos por fazer negócios com especiarias e alimentos, especialmente por serem proprietários da importação e exportação das especiarias de Matzica dentro de Amn, e os maiores vendedores das mercadorias de Zhakara internacionalmente. São um dos maiores provedores de alimentos do reino e uma das casas com mais terras e comércios em Amn. São parte da liderança do Grupo Rundeen e acumulam capital comercial dentro e fora do reino há séculos.
 

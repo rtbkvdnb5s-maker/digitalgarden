@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-luxarrol/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-luxarrol/","noteIcon":"","created":"2026-03-03T23:44:44.207-03:00","updated":"2026-04-02T22:42:43.931-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Luxarrol:
 
 Uma família nobre e muito rica de Amn. Nativos e sediados em [[Locations/Cidades/Murann\|Murann]], são os maiores construtores de navios do reino e um dos maiores mineradores e vendedores de ouro. Tem a reputação de serem arrogantes e elitistas. Em sua grande maioria, são muito fechados e com poucos amigos mas, mesmo assim, com muita influência política e econômica.
 

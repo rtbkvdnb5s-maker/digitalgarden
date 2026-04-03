@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-nashivaar/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-nashivaar/","noteIcon":"","created":"2026-02-24T03:42:21.561-03:00","updated":"2026-04-02T22:42:54.958-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Nashivaar:
 
 Família de alta nobreza Amniana. São os maiores proprietários em [[Locations/Cidades/Esmeltaran\|Esmeltaran]] e fizeram uma grande fortuna com capital estrangeiro em Amn. Recentemente encontraram uma veia de [[Lore/Cristais de Ecaldarandus\|Cristais de Ecaldarandus]] em [[Locations/Cidades/Keczulla\|Keczulla]] que promete uma grande fortuna . 
 

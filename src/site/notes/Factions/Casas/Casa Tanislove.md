@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-tanislove/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-tanislove/","noteIcon":"","created":"2026-03-01T15:56:18.263-03:00","updated":"2026-04-02T22:43:55.664-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Tanislove:
 
 Casa de [[Locations/Cidades/Eshpurta\|Eshpurta]], majoritariamente anã liderada por Phaellus Tanislove, é conhecida por ter grandes posses e terras que foram passadas a eles pela [[Factions/Casas/Casa Gheldieg\|Casa Gheldieg]] e por serem partes dos Lords dos Escudos. Tem enorme influência econômica e política em Amn. Descendentes da Dinastia Tortlath, são uma presença controversa em Amn por trabalharem contra o consenso e a direção geral do Conselho e da nobreza.
 

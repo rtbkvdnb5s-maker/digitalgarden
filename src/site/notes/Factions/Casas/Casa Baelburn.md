@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/factions/casas/casa-baelburn/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/casas/casa-baelburn/","noteIcon":"","created":"2026-03-01T15:10:07.754-03:00","updated":"2026-04-02T22:41:11.349-03:00","dg-note-properties":{}}
 ---
+
+#### Casa Baelburn:
 
 Uma família muito rica de Athkatla que trabalha com a venda de pedras preciosas e joalheria. Suas jóias são muito caras e consumidas pelo reino de amn e, ocasionalmente, exportadas para o mundo como artigos de alto-luxo. Detentores de muitas minas de pedras preciosas na região centro-oeste de Amn. 
 
