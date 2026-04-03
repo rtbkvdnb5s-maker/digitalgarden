@@ -10,7 +10,6 @@ As grandes casas de Amn são as forças mais influentes dentro de tudo que acont
 [[Factions/Casas/Casa Baelburn\|Casa Baelburn]]
 [[Factions/Casas/Casa Bladesmile\|Casa Bladesmile]]
 [[Factions/Casas/Casa Cophrit\|Casa Cophrit]]
-[[Factions/Casas/Casa Craumerdaum\|Casa Craumerdaum]]
 [[Factions/Casas/Casa Critapper\|Casa Critapper]]
 [[Factions/Casas/Casa Dannir\|Casa Dannir]]
 [[Factions/Casas/Casa Gheldieg\|Casa Gheldieg]]
