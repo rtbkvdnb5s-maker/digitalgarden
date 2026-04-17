@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/factions/guildas/magos-velados/","noteIcon":"","created":"2026-02-24T22:10:06.124-03:00","updated":"2026-04-17T15:45:05.014-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/factions/guildas/magos-velados/","noteIcon":"","created":"2026-02-24T22:10:06.124-03:00","updated":"2026-04-17T15:51:46.123-03:00","dg-note-properties":{}}
 ---
 
 ### Magos Velados:
@@ -7,7 +7,7 @@
 É uma instituição que foi fundada com o objetivo de produzir e conservar conhecimento, além de supervisionar e guiar o uso apropriado de magia na sociedade, evitando que o conhecimento arcano fosse utilizado em maus caminhos. Eles preservam sua anonimidade e sua distância para se afastar de política e questões que não deviriam afetar o conhecimento. Mas a partir diretoria e influência de [Thayze Selemchant](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Factions%2FCasas%2FCasa%20Selemchant), eles passaram à ser espiões, vigias e assassinos arcanos em nome do conselho.
 #### Estrutura:
 **_Interius Arcannum:_** O círculo interior e escalão mais alto da ordem. Eles são, em orden de _rank_:
-	- **Arcaníons**: 3 magos anônimos (_arcanion_) que supervisionam todas as atividades da ordem.  Todos respondem à eles. Um deles é [[Characters/NPCs/Stellan Selemchant\|Stellan Selemchant]].
+	- **Arcaníons**: 3 magos anônimos (_arcanion_) que supervisionam todas as atividades da ordem.  Todos respondem à eles. 
 	- **Praesiderions**: Os líderes das células das maiores cidades. Supervisionam e chefiam as atividades executivas e operacionais localizadas no reino. Estes são:
 		- [[Locations/Cidades/Athkatla/Athkatla\|Athkatla]]. Pr: Camille [Selemchant](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Factions%2FCasas%2FCasa%20Selemchant).
 		- [[Locations/Cidades/Crimmor\|Crimmor]].
