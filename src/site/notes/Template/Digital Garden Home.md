@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/digital-garden-home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-02T21:59:41.797-03:00","updated":"2026-04-17T15:43:31.513-03:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/template/digital-garden-home/","tags":["gardenEntry"],"noteIcon":"","created":"2026-04-02T21:59:41.797-03:00","updated":"2026-04-17T19:28:40.127-03:00","dg-note-properties":{}}
 ---
 
 # Remy Files
@@ -30,6 +30,7 @@ O relacionamento das Grandes Casas e das Facções é muito dinâmico. Mas, atua
 ### Grupos:
 As facções e organizações de Amn:
 - [[Factions/Guildas/Cabala Esmeralda\|Cabala Esmeralda]]
+- [[Factions/Governo/Conselho de Amn\|Conselho de Amn]]
 - [[Factions/Guildas/Guarda das Gemas\|Guarda das Gemas]]
 - [[Factions/Guildas/Guarda Real\|Guarda Real]]
 - [[Factions/Guildas/Igreja de Waukeen\|Igreja de Waukeen]]
