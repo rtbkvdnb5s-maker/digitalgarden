@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/locations/snakewood/bosque-sagrado/tumba-de-dralvor-flamebringer/","noteIcon":"","created":"2026-02-24T00:02:41.603-03:00","updated":"2026-04-17T15:46:18.755-03:00","dg-note-properties":{}}
+---
+
+A tumba do herói anão mitológico, [Dralvor Flamebringer](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Dralvor%20Flamebringer).  Dentro de sua tumba, está escondido sua lâmina e a profecia para o próximo herói de [Korulan](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Lore%2FKorulan) que fará parte da guerra santa em defesa de [Mystra](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Mystra). É localizada nas criptas do [Magistrado de Duskhollow.](obsidian://open?vault=DND%20Luquinhas%20%2B%20Ivan&file=Locations%2FSnakewood%2FBosque%20Sagrado%2FDuskhollow).
